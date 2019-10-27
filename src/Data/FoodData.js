@@ -52,7 +52,3 @@ export function formatPrice(price) {
     res[food.section].push(food);
     return res;
   }, {});
-  
-  //  © created by react.school
-  
-  
